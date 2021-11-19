@@ -1,0 +1,111 @@
+#title {
+    background-color: #ff4c68;
+    height: 90vh;
+    overflow: hidden;
+}
+
+* {
+    font-family: 'ubuntu', sans-serif;
+    font-weight: 900;
+}
+
+#title img {
+    transform: rotate(30deg);
+    height: 80vh;
+}
+
+h1 {
+    font-family: 'Montserrat-Black';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 10%;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.f-pinker {
+    color: #ff4c68;
+}
+
+h3 {
+    font-family: "Montserrat-Bold";
+    font-size: 2rem;
+}
+
+p {
+    color: #8f8f8f;
+    font-weight: 400;
+}
+
+.f-pinker:hover {
+    color: #e63650;
+}
+
+#testimonials,
+#press {
+    background-color: #ef8172;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.carousel-inner img {
+    width: 10%;
+    border-radius: 100%;
+}
+
+#press img {
+    width: 100%;
+}
+
+#press h2 {
+    font-size: 3rem;
+    color: white;
+    font-weight: bolder;
+    padding-bottom: 2rem;
+}
+
+em {
+    color: #ece1e1;
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: bolder;
+    padding: 2rem;
+    text-align: center;
+}
+
+#pricing p {
+    text-align: center;
+}
+
+.card-head {
+    background-color: #d6d1d1;
+    border: 1px solid #d6d1d1;
+    padding: 1%;
+}
+
+.card-group {
+    width: 70%;
+}
+
+#cta {
+    margin-top: 5%;
+    background-color: #f33f3f;
+    /* align-items: center; */
+    padding: 7% 15%;
+}
+
+.carousel-item h2 {
+    color: white;
+}
